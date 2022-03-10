@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-card-solution-using-css-flexbox-DKVThZT26]
-- Live Site URL: []
+- Live Site URL: [https://cometcrisis.github.io/QR-code-card/]
 
 ## My process
 
