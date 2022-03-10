@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [http://127.0.0.1:5500/index.html#]
-- Live Site URL: [http://127.0.0.1:5500/index.html#]
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-card-solution-using-css-flexbox-DKVThZT26]
+- Live Site URL: []
 
 ## My process
 
